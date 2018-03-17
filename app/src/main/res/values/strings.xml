@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Slideshow</string>
+    <string name="slideshow_text">スライドショー</string>
+    <string name="next_text">＞</string>
+    <string name="prev_text">＜</string>
+</resources>
